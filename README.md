@@ -1,7 +1,7 @@
-# blockly.d.ts
+# overcode.d.ts
 
-This ``blockly.d.ts`` file describes the TypeScript type definitions for Blockly.
-If you consume Blockly through ``npm``, this file is already included in the ``npm`` package.
+This ``overcode.d.ts`` file describes the TypeScript type definitions for overcode/overdrive.
+If you consume overdrive through ``npm``, this file is already included in the ``npm`` package.
 Otherwise, you can include a copy of this file with your sources and reference it through a [Triple-Slash directive](https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html).
 
 
